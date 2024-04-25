@@ -1,0 +1,47 @@
+html, body, h1, h2, h3, p, ol, ul, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    color:#ffffff;
+    font-family: "Lucida Sans", Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: #000000;
+    background-image: url(galaxy.png);
+    background-position: center center;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 1500px;
+    padding: 20px;
+    margin: 15px auto 15px auto;
+    text-align: center;
+    
+}
+h1 {
+    padding: 20px;
+    margin: 200px 0 30px 0;
+    font-size: 80px;
+    font-weight: bold;
+}
+h2 {
+    padding: 20px;
+    margin: 15px 0 15px 0;
+    font-size: 35px;
+    font-weight: lighter;
+}
+.header {
+  padding: 20px;
+  margin: 10 px;
+  background-color:#222222;
+  word-spacing: 30px;
+}
+.header a {
+    color:#ffffff;
+    text-decoration: none;
+}
+.header a:hover {
+    color: #0000ff;}
+li {
+    list-style-type: none;
+    height: 65px;
+}
